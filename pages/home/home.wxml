@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="text1">姜辉辉是不是傻！</text>
+<button size="mini">点击</button>
